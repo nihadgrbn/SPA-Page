@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router basename="/pages">
+    <Router>
       <div className="navbar">
         <div className="navContent">
           <Link to="/">Haqqımda</Link>
