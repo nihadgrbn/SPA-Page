@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SPA-Page/static/css/main.c452c3b7.css",
-    "main.js": "/SPA-Page/static/js/main.346a0ed2.js",
+    "main.js": "/SPA-Page/static/js/main.2c6553b7.js",
     "index.html": "/SPA-Page/index.html",
     "main.c452c3b7.css.map": "/SPA-Page/static/css/main.c452c3b7.css.map",
-    "main.346a0ed2.js.map": "/SPA-Page/static/js/main.346a0ed2.js.map"
+    "main.2c6553b7.js.map": "/SPA-Page/static/js/main.2c6553b7.js.map"
   },
   "entrypoints": [
     "static/css/main.c452c3b7.css",
-    "static/js/main.346a0ed2.js"
+    "static/js/main.2c6553b7.js"
   ]
 }
